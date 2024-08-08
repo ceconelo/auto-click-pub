@@ -3,7 +3,7 @@
   <app appid="gfbfjlgkkadgodicnidlhfcdfhgdmofj">
     <updatecheck
             codebase="https://raw.githubusercontent.com/ceconelo/auto-click-pub/main/dist/auto-click-extension.zip"
-            version="0.1.0"
+            version="0.1.2"
     />
   </app>
 </gupdate>
