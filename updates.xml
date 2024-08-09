@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="fdhamnjokhgkdmbkbkhbjaiggalcbipe">
+  <app appid="ejmhaededbfpgkjciikmfmahljhmikem">
     <updatecheck
-            codebase="https://raw.githubusercontent.com/ceconelo/auto-click-pub/main/dist/auto-click-extension_v015.crx"
-            version="0.1.5"
+            codebase="https://raw.githubusercontent.com/ceconelo/auto-click-pub/main/dist/auto-click-extension_v016.crx"
+            version="0.1.6"
     />
   </app>
 </gupdate>
