@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF0c3Q2WWdTcWpmQkNqVGIvajNwVQpqR0NTaktSQWFjZTgxU0tNNnFoenR4dWdyT3VITTJPWXBIWm15Vm9NMVh1ck1zenRXNGhUV0xYR2d5ZCsxNXJ0CmRJajgyaU0rVXVqNlFjUjZBY3BwVVZHd21QalBZV2tIYWsxNlZFeW44NTBvRndPaTcwdkVKb2REUjAvdHcrekIKYU92elVMcjM5b0hFUHEreHlhZTV3OWp5cm1JOHR1d3JCSXdlZkc5YkZjUUFOZU9kMmJhUGpDVnhIS0JhbFdiSgpVYmV0TmxKd0VhT29nb0RXRE9vZ3l5dXV1Tit2eGJCZGhaajdZVE16TWxyZ2tjUVNZdlNQbUlxekw5NE9xeGx0Cit1SFF0RHNRbmE1dXV4TDJJM09IcnVoTTNTeDh0bWorYTJ6RUpqd3ZHSHFGS3dhYUJyVVNoMkpLRkxqZlJNaTMKWHdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==">
+  <app appid="fdhamnjokhgkdmbkbkhbjaiggalcbipe">
     <updatecheck
             codebase="https://raw.githubusercontent.com/ceconelo/auto-click-pub/main/dist/auto-click-extension_v014.crx"
             version="0.1.4"
